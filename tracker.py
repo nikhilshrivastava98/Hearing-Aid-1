@@ -1,5 +1,6 @@
 # organize imports
 import cv2
+import imutils
 import numpy as np
 
 # global variables
